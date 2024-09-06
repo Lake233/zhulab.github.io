@@ -1,5 +1,5 @@
 ---
-title: Deep MI Lab 
+title: MIND Lab 
 layout: home
 group: home
 ---
